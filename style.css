@@ -1,0 +1,12 @@
+/* 周易神算 —— 顶部模式切换条 */
+.dtabs {
+	display: flex;
+	gap: 6px;
+}
+.dtab {
+	padding: 3px 12px;
+	border-radius: 999px;
+}
+.dtab.on {
+	background: rgb(from var(--accent) r g b / 16%);
+}

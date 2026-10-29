@@ -1,0 +1,14 @@
+schema = 1
+id = "divine"
+name = "周易神算"
+version = "0.1.0"
+description = "周易六爻、小六壬神课、奇门遁甲与吠陀占星面板"
+host = "host.luau"
+window = "window.luau"
+styles = ["style.css"]
+
+[[blocks]]
+id = "main"
+title = "Divine Panel"
+icon = "sparkle"
+palette = true
